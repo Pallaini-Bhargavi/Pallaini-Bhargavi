@@ -35,13 +35,12 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/> JavaScript
     </td>
   </tr>
-
-  <tr>
-    <tr>
+  
+   <tr>
   <td><b>☁️ Tools & Cloud</b></td>
   <td>
     <img src="https://skillicons.dev/icons?i=aws" height="25"/> AWS &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25"/> GitHub
+    <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" height="25"/> GitHub
   </td>
 </tr>
 
