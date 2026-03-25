@@ -16,34 +16,42 @@
 -📍 Open to opportunities in: Bengaluru, Hyderabad, Chennai
 
 ---
-
 ## 🛠️ Tech Stack
 
-### 💻 Programming
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/> Python  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25"/> Java  
-</p>
+<table>
+  <tr>
+    <td><b>💻 Programming</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/> Python &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25"/> Java
+    </td>
+  </tr>
 
-### 🌐 Web Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/> HTML  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> CSS  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/> JavaScript  
-</p>
+  <tr>
+    <td><b>🌐 Web Development</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/> HTML &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> CSS &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/> JavaScript
+    </td>
+  </tr>
 
-### ☁️ Tools & Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="25"/> AWS  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25"/> GitHub  
-</p>
+  <tr>
+    <td><b>☁️ Tools & Cloud</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="25"/> AWS &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25"/> GitHub
+    </td>
+  </tr>
 
-### 🗄️ Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25"/> SQL  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" height="25"/> SAP HANA  
-</p>
----
+  <tr>
+    <td><b>🗄️ Databases</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25"/> SQL &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" height="25"/> SAP HANA
+    </td>
+  </tr>
+</table>
 
 ## 💼 Internship Experience
 
