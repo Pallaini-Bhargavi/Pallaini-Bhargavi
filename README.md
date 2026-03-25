@@ -37,21 +37,24 @@
   </tr>
 
   <tr>
-    <td><b>☁️ Tools & Cloud</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="25"/> AWS &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25"/> GitHub
-    </td>
-  </tr>
+    <tr>
+  <td><b>☁️ Tools & Cloud</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=aws" height="25"/> AWS &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25"/> GitHub
+  </td>
+</tr>
 
-  <tr>
-    <td><b>🗄️ Databases</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25"/> SQL &nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" height="25"/> SAP HANA
-    </td>
-  </tr>
+<tr>
+  <td><b>🗄️ Databases</b></td>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25"/> SQL &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" height="25"/> SAP HANA
+  </td>
+</tr>
 </table>
+
+---
 
 ## 💼 Internship Experience
 
