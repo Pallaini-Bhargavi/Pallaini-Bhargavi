@@ -1,16 +1,100 @@
-## Hi there 👋
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Pallaini Bhargavi</h1>
+<h3 align="center">🚀 Aspiring Software Developer | Data Science Student | Problem Solver</h3>
 
-<!--
-**Pallaini-Bhargavi/Pallaini-Bhargavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Data+Science+Enthusiast;Backend+Learner;Problem+Solver&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 B.Tech CSE (Data Science), SRIT (2022–2026)  
+- 📊 CGPA: **8.8**  
+- 💡 Strong in Programming, Data Analysis & SAP  
+- 🌱 Currently learning **Backend Development & Cloud**  
+- 📍 Andhra Pradesh, India  
+- 💼 Looking for **Software Developer roles**  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### ☁️ Tools & Cloud
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-teal?style=for-the-badge)
+
+---
+
+## 💼 Internship Experience
+
+### ✍️ Content Writer Intern — Atavishaala (Jan 2026 – Present)
+- 📝 Created engaging and informative digital content  
+- 🔍 Conducted research across multiple domains  
+- 📈 Improved storytelling and communication skills  
+
+### 💻 Salesforce Developer Intern (May 2025 – Jul 2025)
+- ⚙️ Built custom objects, fields & automation using Flows  
+- ☁️ Worked on CRM & cloud fundamentals  
+- 🏆 Completed Apex Specialist & Superbadge  
+
+---
+
+## 🚀 Projects
+
+### 🔐 Secure Data Hiding Using Calendar Heatmap Steganography
+- 🧠 Built using Java + Cryptography  
+- 🔒 Implemented secure encoding & decoding logic  
+- 📊 Focused on data security & accuracy  
+
+---
+
+## 🏆 Certifications
+- 🥇 SAP Certified Associate – ABAP Cloud  
+- ☁️ AWS Cloud Development  
+- 🐍 Python (HackerRank)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pallaini-Bhargavi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pallaini-Bhargavi&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:pallainibhargavi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/pallaini-bhargavi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Pallaini-Bhargavi">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 🔥 Fun Fact
+💡 I love building real-world projects and continuously improving my technical & problem-solving skills 🚀
