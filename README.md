@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 - 🎓 B.Tech CSE (Data Science), SRIT (2022-2026)  
 - 📊 CGPA: **8.8**  
-- 💡 Strong in Programming, & SAP  
+- 💡 Strong in Programming & SAP  
 - 🌱 Currently learning **Backend Development & Cloud**  
 - 📍 Andhra Pradesh, India  
 - 💼 Looking for **Tech roles**
