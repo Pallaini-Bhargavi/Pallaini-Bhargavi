@@ -49,7 +49,7 @@
   <td><b>🗄️ Databases</b></td>
   <td>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25"/> SQL &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" height="25"/> SAP HANA
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="25"/> SAP HANA
   </td>
 </tr>
 </table>
