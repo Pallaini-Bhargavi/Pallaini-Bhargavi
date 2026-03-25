@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Web+Development;Cloud+Learner;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
----
 
 ## 🧑‍💻 About Me
 - 🎓 B.Tech CSE (Data Science), SRIT (2022-2026)  
@@ -14,29 +13,36 @@
 - 🌱 Currently learning **Backend Development & Cloud**  
 - 📍 Andhra Pradesh, India  
 - 💼 Looking for **Tech roles**
-- 📍 Open to locations : Banglore, Hyderabad, Chennai
+-📍 Open to opportunities in: Bengaluru, Hyderabad, Chennai
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+</p>
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+</p>
 
 ### ☁️ Tools & Cloud
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</p>
 
 ### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
-![SAP HANA](https://img.shields.io/badge/SAP_HANA-teal?style=for-the-badge)
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" height="40"/>
+</p>
 ---
 
 ## 💼 Internship Experience
@@ -46,6 +52,7 @@
 - 🔍 Conducted research across multiple domains  
 - 📈 Improved storytelling and communication skills  
 
+---
 
 ### 💻 Salesforce Developer Intern (May 2025 - Jul 2025)
 - ⚙️ Built custom objects, fields & automation using Flows  
@@ -83,11 +90,15 @@
 
 <p align="center">
   <a href="mailto:pallainibhargavi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/pallaini-bhargavi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
+  <a href="https://github.com/Pallaini-Bhargavi">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  </a>
+</p>
   <a href="https://github.com/Pallaini-Bhargavi">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
