@@ -101,18 +101,17 @@
 
 <p align="center">
   <a href="mailto:pallainibhargavi@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/new-post.png" height="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pallaini-bhargavi/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Pallaini-Bhargavi">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
+    <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" height="30"/>
   </a>
 </p>
----
 
 ## 🔥 Fun Fact
 💡 I love building real-world projects and continuously improving my technical & problem-solving skills 🚀
