@@ -1,16 +1,14 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi, I'm Pallaini Bhargavi</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Data Science Student | Problem Solver </h3>
+<h3 align="center">🚀 Aspiring Tech Professional | Building Skills in Software, Data & Cloud</h3>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Backend+Learner;Problem+Solver&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Web+Development;Cloud+Learner;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 B.Tech CSE (Data Science), SRIT (2022–2026)  
+- 🎓 B.Tech CSE (Data Science), SRIT (2022-2026)  
 - 📊 CGPA: **8.8**  
 - 💡 Strong in Programming, & SAP  
 - 🌱 Currently learning **Backend Development & Cloud**  
@@ -43,12 +41,13 @@
 
 ## 💼 Internship Experience
 
-### ✍️ Content Writer Intern - Atavishaala (Jan 2026 – Present)
+### ✍️ Content Writer Intern - Atavishaala (Jan 2026 - Present)
 - 📝 Created engaging and informative digital content  
 - 🔍 Conducted research across multiple domains  
 - 📈 Improved storytelling and communication skills  
 
-### 💻 Salesforce Developer Intern (May 2025 – Jul 2025)
+
+### 💻 Salesforce Developer Intern (May 2025 - Jul 2025)
 - ⚙️ Built custom objects, fields & automation using Flows  
 - ☁️ Worked on CRM & cloud fundamentals  
 - 🏆 Completed Apex Specialist & Superbadge  
