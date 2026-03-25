@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Backend Development & Cloud**  
 - 📍 Andhra Pradesh, India  
 - 💼 Looking for **Tech roles**
--📍 Open to opportunities in: Bengaluru, Hyderabad, Chennai
+- 📍 Open to opportunities in: Bengaluru, Hyderabad, Chennai
 
 ---
 ## 🛠️ Tech Stack
