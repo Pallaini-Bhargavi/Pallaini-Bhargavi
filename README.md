@@ -1,10 +1,10 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Pallaini Bhargavi</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Data Science Student | Problem Solver</h3>
+<h1 align="center">Hi, I'm Pallaini Bhargavi</h1>
+<h3 align="center">🚀 Aspiring Software Developer | Data Science Student | Problem Solver </h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Data+Science+Enthusiast;Backend+Learner;Problem+Solver&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Backend+Learner;Problem+Solver&center=true&width=500&height=50">
 </p>
 
 ---
@@ -12,10 +12,11 @@
 ## 🧑‍💻 About Me
 - 🎓 B.Tech CSE (Data Science), SRIT (2022–2026)  
 - 📊 CGPA: **8.8**  
-- 💡 Strong in Programming, Data Analysis & SAP  
+- 💡 Strong in Programming, & SAP  
 - 🌱 Currently learning **Backend Development & Cloud**  
 - 📍 Andhra Pradesh, India  
-- 💼 Looking for **Software Developer roles**  
+- 💼 Looking for **Tech roles**
+- 📍 Open to locations : Banglore, Hyderabad, Chennai
 
 ---
 
@@ -32,7 +33,6 @@
 
 ### ☁️ Tools & Cloud
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ### 🗄️ Databases
@@ -43,7 +43,7 @@
 
 ## 💼 Internship Experience
 
-### ✍️ Content Writer Intern — Atavishaala (Jan 2026 – Present)
+### ✍️ Content Writer Intern - Atavishaala (Jan 2026 – Present)
 - 📝 Created engaging and informative digital content  
 - 🔍 Conducted research across multiple domains  
 - 📈 Improved storytelling and communication skills  
@@ -57,7 +57,7 @@
 
 ## 🚀 Projects
 
-### 🔐 Secure Data Hiding Using Calendar Heatmap Steganography
+### 🔐 Secure Data Hiding Using Calendar Heatmap Steganography ( Nov 2025 - Present )
 - 🧠 Built using Java + Cryptography  
 - 🔒 Implemented secure encoding & decoding logic  
 - 📊 Focused on data security & accuracy  
@@ -65,7 +65,7 @@
 ---
 
 ## 🏆 Certifications
-- 🥇 SAP Certified Associate – ABAP Cloud  
+- 🥇 SAP Certified Associate - Back-End Developer - ABAP Cloud  
 - ☁️ AWS Cloud Development  
 - 🐍 Python (HackerRank)  
 
