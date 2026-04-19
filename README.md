@@ -8,8 +8,8 @@
 
 ## 🧑‍💻 About Me
 - 🎓 B.Tech CSE (Data Science), SRIT (2022-2026)  
-- 📊 CGPA: **8.8**  
-- 💡 Strong in Programming & SAP  
+- 📊 CGPA: **8.9**  
+- 💡 Strong in Programming
 - 🌱 Currently learning **Backend Development & Cloud**  
 - 📍 Andhra Pradesh, India  
 - 💼 Looking for **Tech roles**
@@ -48,8 +48,7 @@
   <td><b>🗄️ Databases</b></td>
   <td>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25"/> SQL &nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" height="25"/> SAP HANA
-  </td>
+      </td>
 </tr>
 </table>
 
@@ -57,33 +56,34 @@
 
 ## 💼 Internship Experience
 
-### ✍️ Content Writer Intern - Atavishaala (Jan 2026 - Present)
-- 📝 Created engaging and informative digital content  
-- 🔍 Conducted research across multiple domains  
-- 📈 Improved storytelling and communication skills  
+### ✍️ Content Writer Intern - Atavishaala | Remote (Jan 2026 - Apr 2026)
+- Created structured and engaging content based on research and requirements
+- Enhanced content quality through editing, proofreading, and formatting for better clarity
+
 
 ---
 
-### 💻 Salesforce Developer Intern (May 2025 - Jul 2025)
-- ⚙️ Built custom objects, fields & automation using Flows  
-- ☁️ Worked on CRM & cloud fundamentals  
-- 🏆 Completed Apex Specialist & Superbadge  
+### 💻 AWS Data Engineering Virtual Intern, AICTE - Edu Skills (AWS Academy) | Remote Jul 2025 - Sep 2025 
+- Completed a 10-week virtual internship focused on data engineering concepts using AWS cloud services
+- Gained hands-on exposure to data storage, processing, and basic data pipeline workflows
+- Developed understanding of scalable data solutions and cloud-based architectures
+
 
 ---
 
 ## 🚀 Projects
 
-### 🔐 Secure Data Hiding Using Calendar Heatmap Steganography ( Nov 2025 - Present )
-- 🧠 Built using Java + Cryptography  
-- 🔒 Implemented secure encoding & decoding logic  
-- 📊 Focused on data security & accuracy  
+### 🔐 Secure Data Hiding Using Calendar Heatmap Steganography ( Oct 2025 - Apr 2026 )
+Tech: Java, Cyber Security, Cryptography, Steganography 
+• Designed and developed a calendar heatmap-based technique for secure message embedding using steganography
+• Implemented encoding and decoding mechanisms for accurate and secure data extraction
+• Developed and optimized backend logic for efficient message processing and reliable performance
 
 ---
 
 ## 🏆 Certifications
-- 🥇 SAP Certified Associate - Back-End Developer - ABAP Cloud  
-- ☁️ AWS Cloud Development  
-- 🐍 Python (HackerRank)  
+- AWS Cloud Development - Amazon Web Services May 2025
+- Google Cloud Foundations - Google Cloud Oct 2024
 
 ---
 
