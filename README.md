@@ -113,6 +113,3 @@ Tech: Java, Cyber Security, Cryptography, Steganography
 </p>
 
 ---
-
-## 🔥 Fun Fact
-💡 I love building real-world projects and continuously improving my technical & problem-solving skills 🚀
